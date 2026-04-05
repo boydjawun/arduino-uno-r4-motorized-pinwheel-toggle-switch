@@ -1,10 +1,13 @@
 # 🎡Arduino UNO R4 WiFi – Motorized Pinwheel with Toggle Switch
 
-**Modified Project 09 from the official [Arduino Starter Kit R4](https://store-usa.arduino.cc/collections/arduino-starter-kit-collection/products/starter-kit-r4)**
+>**Modified Project 09 from the official [Arduino Starter Kit R4](https://store-usa.arduino.cc/collections/arduino-starter-kit-collection/products/starter-kit-r4)**
 
 One click turns the fan/pinwheel **ON** and it stays spinning. One more click turns it **OFF**. Perfect beginner project for learning motor control, transistors, and button debouncing!
 
-⏯️ ![Motorized Pinwheel in action](https://youtube.com/shorts/sYTtanpqih0?feature=share)  
+### ⏯️Motorized Pinwheel in Action
+> This link will take you to [Simple Electronics Tutorial](https://www.youtube.com/@simpleelectronicstutorials) YouTube Page
+
+👉 [Motorized Pinwheel in action](https://youtube.com/shorts/sYTtanpqih0?feature=share)  
 
 <img src = 'https://github.com/user-attachments/assets/a6cfc682-23aa-4ec8-8cf0-6bd06922a1d9' align = right height = 600 width = 600 />
 
