@@ -6,7 +6,10 @@ One click turns the fan/pinwheel **ON** and it stays spinning. One more click tu
 
 ![Motorized Pinwheel in action](https://your-image-link-here.jpg)  
 
-<img src = 'https://github.com/user-attachments/assets/2d9fd800-2a04-4d8e-ab81-3c6a8fdc0e2e' align = right height = 400 width = 400 />
+<img src = 'https://github.com/user-attachments/assets/a6cfc682-23aa-4ec8-8cf0-6bd06922a1d9' align = right height = 600 width = 600 />
+
+
+
 
 ### ✨ Features
 - Toggle control (press once = ON, press again = OFF)
