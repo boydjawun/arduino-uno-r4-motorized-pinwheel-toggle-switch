@@ -4,7 +4,7 @@
 
 One click turns the fan/pinwheel **ON** and it stays spinning. One more click turns it **OFF**. Perfect beginner project for learning motor control, transistors, and button debouncing!
 
-![Motorized Pinwheel in action](https://your-image-link-here.jpg)  
+⏯️ ![Motorized Pinwheel in action](https://youtube.com/shorts/sYTtanpqih0?feature=share)  
 
 <img src = 'https://github.com/user-attachments/assets/a6cfc682-23aa-4ec8-8cf0-6bd06922a1d9' align = right height = 600 width = 600 />
 
@@ -33,7 +33,7 @@ One click turns the fan/pinwheel **ON** and it stays spinning. One more click tu
 1. **Gather components** – All parts are included in the official Arduino UNO R4 Starter Kit.
 2. **Build the circuit** – Follow the wiring diagram on page 96 of the project book (transistor, diode, 10kΩ resistor, button, motor, and 9V battery).
 3. **Connect the Arduino** – Use USB-C to upload code.
-4. **Upload the toggle code** (see below).
+4. **Upload the [toggle code](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch/blob/main/arduino-uno-r4-motorized-pinwheel-toggle-switch.ino)** (see below).
 5. **Test** – Press the button once to start the pinwheel, press again to stop it.
 6. **Experiment** – Try changing the debounce delay or adding an LED indicator.
 
