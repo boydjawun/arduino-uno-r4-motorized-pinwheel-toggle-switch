@@ -85,4 +85,4 @@ void loop() {
 4.  The diode protects the Arduino from back-voltage spikes when the motor stops.
 
 ## 📚 Based On
-Official Project 09: Motorized Pinwheel from the [Arduino Starter Kit R4](https://store-usa.arduino.cc/collections/arduino-starter-kit-collection/products/starter-kit-r4) book.
+> Official Project 09: Motorized Pinwheel from the [Arduino Starter Kit R4](https://store-usa.arduino.cc/collections/arduino-starter-kit-collection/products/starter-kit-r4) book.
