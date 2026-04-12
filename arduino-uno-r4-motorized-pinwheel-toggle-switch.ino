@@ -1,3 +1,4 @@
+// This code allows the DC motor to start upon a button press, and continue until another button press is initiated
 const int switchPin = 2;
 const int motorPin = 9;
 int switchState = 0;
@@ -14,8 +15,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  switchState = digitalRead(switchPin);
-
+  switchState = digitalRead(switchPin); // Reads the input from switchPin and saves as switchState
+  
   if (switchState == HIGH && lastSwitchState == LOW){
     motorOn = !motorOn;
 
@@ -23,10 +24,10 @@ void loop() {
       digitalWrite(motorPin, HIGH);
     } else {
       digitalWrite(motorPin, LOW);
-    }
+    }                                  // If switchState is read as HIGH, and lastSwitchState is read as LOW. motorPin will switch to HIGH if the previous conditions are met, and Low if anything else happens
 
     delay(50);
   }
 
-  lastSwitchState = switchState;
+  lastSwitchState = switchState; // lastSwitchState equals the switchState value after the loop finishes
 }
